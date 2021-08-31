@@ -1,0 +1,9 @@
+{
+	"name": "azsure-databricks-workspace-01",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38275a40-0762-4735-976d-340ababd343d",
+		"tenantId": "d6302acd-2141-44d3-b68f-226b5711efc4"
+	}
+}
